@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on re-designing my own educational flash-card based Web App.
-I'll link its logic with platform based languages t be available on web and android/ios
+I'll link its logic with platform based languages to be available on web and android/ios
 - 🌱 I’m currently learning Angular and React
 - 👯 I’m looking to collaborate on educational projects
 - 🤔 I’m looking for help to support my upcoming projects.
