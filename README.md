@@ -13,3 +13,6 @@ I'll link its logic with platform based languages to be available on web and and
 - 📫 How to reach me: Plz follow me on twitter and instagram @designeranna1
 - ⚡ Fun fact: I like both tea and coffee.
 
+<br>
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true" alt="GitHub Stats"></p>
