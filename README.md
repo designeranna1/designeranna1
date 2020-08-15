@@ -15,4 +15,5 @@ I'll link its logic with platform based languages to be available on web and and
 
 <br>
 <br>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=designeranna1&color=blueviolet alt="designeranna1"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true" alt="GitHub Stats"></p>
