@@ -16,4 +16,4 @@ I'll link its logic with platform based languages to be available on web and and
 
 <br>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true&theme=beufy" alt="GitHub Stats"></p>
+<p style="padding: 100px"><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true&theme=buefy" alt="GitHub Stats"></p>
