@@ -12,8 +12,8 @@ I'll link its logic with platform based languages to be available on web and and
 - 💬 Ask me about anything related to technology.
 - 📫 How to reach me: Plz follow me on twitter and instagram @designeranna1
 - ⚡ Fun fact: I like both tea and coffee.
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=designeranna1&color=3399ff alt="designeranna1"></p>
-
+<br>
+<p align="center"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/designeranna1?color=f93993&logo=twitter&style=for-the-badge">
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true&theme=buefy" alt="GitHub Stats"></p>
