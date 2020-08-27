@@ -13,7 +13,7 @@ I'll link its logic with platform based languages to be available on web and and
 - 📫 How to reach me: Plz follow me on twitter and instagram @designeranna1
 - ⚡ Fun fact: I like both tea and coffee.
 <br>
-<p align="center"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/designeranna1?color=f93993&logo=twitter&style=for-the-badge">
+<p align="center"> <a href="https://twitter.com/DesignerAnna1"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/designeranna1?color=f93993&logo=twitter&style=for-the-badge"></a>
 <br>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=designeranna1&amp;show_icons=true&theme=buefy" alt="GitHub Stats"></p>
